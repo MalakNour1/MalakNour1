@@ -46,32 +46,6 @@
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-F05A22?style=flat&logo=portswigger&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Malaknourr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Malaknourr&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Malaknourr">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malaknourr&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
-
-<a href="https://github.com/Malaknourr">
-  <img height="140em" src="https://github-profile-trophy.vercel.app/?username=Malaknourr&theme=tokyonight&no-frame=true&column=4" />
-</a>
-
-</div>
-
----
-
 ## 🤝 Let’s Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-nourelhussien)  
