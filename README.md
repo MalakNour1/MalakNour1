@@ -13,10 +13,7 @@
 ## About Me
 
 - Third-year **Computer Science** student at Cairo University  
-- Interested in **algorithms**, **backend development**, **system design**, and **web security**  
-- Currently learning **advanced algorithms**, **Linux**, **web development**, and **cybersecurity tools**  
-- I enjoy understanding how things work under the hood and focusing on clean, maintainable solutions  
-
+- Interested in **Problem Solving**, **Backend Development**, **Software Engineering**, and **Cloud Computing**  
 ---
 
 ## Tech Stack
